@@ -4,6 +4,14 @@
     <fileColor scope="All" color="000000" />
     <fileColor scope="All" color="2a2a2a" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1UBs87BzvK2x31q7uxkaFxmRz5S" />
   <component name="PropertiesComponent">
